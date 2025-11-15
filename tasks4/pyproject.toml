@@ -1,0 +1,10 @@
+[project]
+name = "tasks4"
+version = "0.1.0"
+dependencies = [
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0"
+]
+
+[project.scripts]
+tasks4 = "main:summarize_tasks"
