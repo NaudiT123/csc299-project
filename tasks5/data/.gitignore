@@ -1,0 +1,30 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+build/
+dist/
+
+# Python virtual environments
+env/
+.venv/
+venv/
+.env/
+
+# IDE/editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Log files and coverage reports
+*.log
+htmlcov/
+.coverage
+
+# Bytecode
+*.pyc
+
+
+tasks.json
+]
